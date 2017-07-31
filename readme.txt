@@ -8,3 +8,4 @@ master Creating a new branch is quick & simple.
 
 feature1 Creating a new branch is quick AND simple.
 
+dev git merge --no-ff -m "merge with no-ff" dev.
